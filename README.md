@@ -10,6 +10,8 @@
   <a href="https://anshaiml369.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-anshaiml369.github.io-ef7a45?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/ansh-agrawal-0738803a6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ansh--agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ansh.aiml369@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ansh.aiml369%40gmail.com-1b1915?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://anshaiml369.github.io/assets/cv/Ansh_Agrawal_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-1%20page%20PDF-1b1915?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://anshaiml369.github.io/assets/cv/Ansh_Agrawal_CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-2%20pages%20PDF-1b1915?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 
 ---
