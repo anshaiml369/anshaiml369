@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI / ML engineering</b> · B.Tech AI &amp; ML, Universal AI University (expected 2029)<br>
-  I build machine-learning systems across graphs, language, LLM agents, speech and tabular data —<br>
+  I build machine-learning systems across graphs, language, LLM agents, speech, tabular data and multimodal generation —<br>
   <i>and then test whether their results hold up.</i>
 </p>
 
@@ -23,7 +23,7 @@ I build deployed AI systems, re-evaluate what they actually do, and write the li
 
 **Open to** research internships and applied-ML engineering roles where evaluation matters.
 
-### Five live systems
+### Six live systems
 
 | Project | Area | What it does | Result | Links |
 |---|---|---|---|---|
@@ -32,12 +32,15 @@ I build deployed AI systems, re-evaluate what they actually do, and write the li
 | **Moodalyx** | NLP · recurrent networks | Predicts which of six emotion labels a short sentence most resembles, with the full distribution. | **0.921** accuracy · 0.880 macro-F1 · 0.048 calibration error | [demo](https://anshag-moodalyx.hf.space/) · [code](https://github.com/anshaiml369/moodalyx) |
 | **CreditCompass** | Tabular ML · calibration | Calibrated loan-default probabilities with XGBoost; ranking, calibration and threshold trade-offs. | **0.953** ROC-AUC · 0.910 PR-AUC · 0.052 Brier | [demo](https://anshag-creditcompass.hf.space/) · [code](https://github.com/anshaiml369/creditcompass) |
 | **Verbalyx** | Speech · RAG | Answers questions about what was said in a recording and shows the transcript passages behind every answer. | **4.5%** word error rate on a test meeting · 3/3 questions answered | [demo](https://anshag-verbalyx.hf.space/) · [code](https://github.com/anshaiml369/verbalyx) |
+| **Kalpana** | Multimodal generative AI | Chat that sees and speaks, plus images and video; the model decides by tool calling when to draw or animate. | **1.9 s** chat reply · image in 11.6 s · video in 13.4 s on the live demo, with per-visitor limits | [demo](https://anshag-kalpana.hf.space/) · [code](https://github.com/anshaiml369/kalpana) |
 
 Every figure comes from a re-run or re-evaluation of the shipped model. Each project's README lists its limitations.
 
+**In progress — Aivanta** (Oct 2026 – present): a verified research-to-content platform with two human approval gates. An LLM judge checks every claim against verbatim source quotes; on a held-out set, unsupported claims passed as supported fell from 8 to 2. Not public yet.
+
 ### What I work with
 
-**Areas** — graph neural networks · LLM agents · retrieval-augmented generation · speech recognition · calibration & evaluation
+**Areas** — graph neural networks · LLM agents · retrieval-augmented generation · speech recognition · multimodal generation · calibration & evaluation
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
