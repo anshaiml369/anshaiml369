@@ -19,8 +19,7 @@
 > A model that scores well is a claim, not a result.
 
 I'm a second-year B.Tech student in Artificial Intelligence & Machine Learning at Universal AI University, India.
-Each of my projects began from a public tutorial. I extend them — with AI coding assistants — into deployed systems,
-re-evaluate what they actually do, and write the limitation next to the result.
+I build deployed AI systems, re-evaluate what they actually do, and write the limitation next to the result.
 
 **Open to** research internships and applied-ML engineering roles where evaluation matters.
 
